@@ -54,7 +54,7 @@ export default function Home({ document }: TemplateProps) {
             size="Large"
           />
           <Heading
-            text="Featured Articles"
+            text="Featured Articles!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
             align="Left"
             rank="2"
             weight="Bold"
