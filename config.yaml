@@ -1,2 +1,2 @@
 authentication:
-  policyName: AuthZero
+  policyName: AuthOne
