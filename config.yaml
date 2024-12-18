@@ -8,3 +8,6 @@ buildConfiguration:
       - .npmrc
 livePreviewConfiguration:
   setupCommand: ":"
+sitemap:
+  - fileName: custom-sitemapi
+
