@@ -9,5 +9,5 @@ buildConfiguration:
 livePreviewConfiguration:
   setupCommand: ":"
 sitemap:
-  - fileName: custom-sitemapi
+  fileName: custom-sitemap
 
